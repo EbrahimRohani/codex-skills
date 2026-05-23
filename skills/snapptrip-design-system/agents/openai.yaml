@@ -1,0 +1,4 @@
+interface:
+  display_name: "Snapptrip Design System"
+  short_description: "Use Snapptrip homepage tokens and components."
+  default_prompt: "Use the Snapptrip design system to design, audit, or implement RTL Persian travel-booking UI consistent with snapptrip.com."
