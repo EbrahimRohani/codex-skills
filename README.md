@@ -11,3 +11,9 @@ python "$env:USERPROFILE\.codex\skills\.system\skill-installer\scripts\install-s
 ```
 
 Restart Codex after installing or updating skills.
+
+Install the Working Backwards skill with:
+
+```powershell
+python "$env:USERPROFILE\.codex\skills\.system\skill-installer\scripts\install-skill-from-github.py" --repo EbrahimRohani/codex-skills --path skills/working-backwards
+```

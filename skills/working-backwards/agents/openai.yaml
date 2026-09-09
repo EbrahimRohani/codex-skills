@@ -1,0 +1,4 @@
+interface:
+  display_name: "Working Backwards"
+  short_description: "Turn ambiguous product ideas into testable PR/FAQs"
+  default_prompt: "Use $working-backwards to turn this product idea into a customer-first promise, hard FAQs, evidence plan, and owned decision."
