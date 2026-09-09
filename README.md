@@ -1,19 +1,15 @@
-# Codex Skills
+# Working Backwards plugin
 
-Personal Codex skills.
+A skills-only Codex plugin containing the `working-backwards` skill and its bundled references.
 
-## Install
+## Install as a plugin
 
-Install the Snapptrip design-system skill with:
+Use the plugin installer or the Codex app's plugin flow to install this repository as a plugin.
 
-```powershell
-python "$env:USERPROFILE\.codex\skills\.system\skill-installer\scripts\install-skill-from-github.py" --repo EbrahimRohani/codex-skills --path skills/snapptrip-design-system
-```
-
-Restart Codex after installing or updating skills.
-
-Install the Working Backwards skill with:
+For a direct local skill install, use:
 
 ```powershell
 python "$env:USERPROFILE\.codex\skills\.system\skill-installer\scripts\install-skill-from-github.py" --repo EbrahimRohani/codex-skills --path skills/working-backwards
 ```
+
+Restart Codex after installing or updating the plugin or skill.
